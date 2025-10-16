@@ -1,0 +1,22 @@
+{
+  "molecules": [
+    {
+      "name": "Logo",
+      "version": "1.0.0",
+      "description": "Logo component with configurable link and size."
+    },
+    {
+      "name": "SearchBar",
+      "version": "1.2.0",
+      "description": "Search bar with autocomplete suggestions."
+    }
+  ],
+  "organisms": [
+    {
+      "name": "Header-01",
+      "version": "1.0.0",
+      "description": "Responsive header with menu, search, and minicart."
+    }
+  ],
+  "templates": []
+}
