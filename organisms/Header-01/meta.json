@@ -1,0 +1,9 @@
+{
+  "name": "Header-01",
+  "type": "organism",
+  "version": "1.0.0",
+  "dependencies": [
+    "molecule:Logo",
+    "vtex.store-drawer"
+  ]
+}
