@@ -1,0 +1,7 @@
+{
+  "name": "TestMolecule",
+  "type": "molecule",
+  "version": "1.0.0",
+  "description": "A component for testing the publish command",
+  "dependencies": []
+}

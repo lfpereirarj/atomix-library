@@ -9,6 +9,11 @@
       "name": "SearchBar",
       "version": "1.2.0",
       "description": "Search bar with autocomplete suggestions."
+    },
+    {
+      "name": "TestMolecule",
+      "version": "1.0.0",
+      "description": "A component for testing the publish command"
     }
   ],
   "organisms": [
